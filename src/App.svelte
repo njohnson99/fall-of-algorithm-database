@@ -14,17 +14,10 @@
 </main>
 
 <style>
-	#login {
-		margin-top: 2cm;
-		margin-left: 2cm;
-		margin-right: 8cm;
-		margin-bottom: 2cm;
-		font-size: 20px;
-	}
 	#all-html {
 		margin-top: 2cm;
-		margin-left: 2cm;
-		margin-right: 2cm;
+		margin-left: 10vw;
+		margin-right: 20vw;
 		margin-bottom: 2cm;
 		font-size: 20px;
 		position: relative;
