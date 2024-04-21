@@ -4,7 +4,7 @@
 <main>
 	<div id = "all-html">
 		<div id = "login">
-		This database is currently under development, to be released in June 2024.<br><br>
+		This database is currently under development, to be released by June 2024.<br><br>
 
 		If you have any questions or would like to access our data, you can reach us at: narij [at] andrew.cmu.edu.
 	</div>
